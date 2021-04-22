@@ -1,7 +1,5 @@
 # singularity-hmmer
 
-![HMMER](images/logo.png)
-
 Singularity recipe for [HMMER](http://hmmer.org/).
 
 ## Building the image using the recipe
