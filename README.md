@@ -1,6 +1,6 @@
 # singularity-hmmer
 
-![HMMER](./images/logo.png)
+![HMMER](images/logo.png)
 
 Singularity recipe for [HMMER](http://hmmer.org/).
 
