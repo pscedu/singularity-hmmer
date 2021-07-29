@@ -1,5 +1,5 @@
 --
--- hmmer 2.1.11 modulefile
+-- hmmer 3.3.1 modulefile
 --
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Biological Sciences"
