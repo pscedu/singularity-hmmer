@@ -13,8 +13,6 @@ whatis("URL: https://www.psc.edu/resources/software")
 whatis("Description: hmmer infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences.")
 
 help([[
-Description
------------
 hmmer infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences.
 
 To load the module type
