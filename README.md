@@ -12,7 +12,7 @@ Singularity recipe for [hmmer](https://github.com/EddyRivasLab/hmmer).
 Copy the
 
 * `SIF` file
-* and the `hmmer` script
+* and the `alimask`, `hmmbuild`, `hmmemit`, `hmmpgmd`, `hmmscan`, `hmmstat`, `phmmer`, `hmmc2`, `hmmfetch`, `hmmpgmd_shard`, `hmmsearch`, `jackhmmer`, `nhmmer`, `hmmalign`, `hmmconvert`, `hmmlogo`, `hmmpress`, `hmmsim`, `makehmmerdb`, `nhmmscan` scripts
 
 to `/opt/packages/hmmer/3.3.1`.
 
